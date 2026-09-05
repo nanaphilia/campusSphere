@@ -72,6 +72,7 @@ Submission of reports
 <img width="1919" height="1079" alt="image" alt="image" src="https://github.com/user-attachments/assets/a42f78c5-3256-4d80-bbfe-f0ed54f47665" />
 
 Approval Process
+
 <img width="521" height="768" alt="image" src="https://github.com/user-attachments/assets/6f4ce9e9-0bd1-40cb-913c-e2376b615d24" />
 
 Adviser Dashboard
