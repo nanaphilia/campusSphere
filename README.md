@@ -1,5 +1,6 @@
-<img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/685392cb-50bc-4915-bcc0-242386d991d4" /><img width="1905" height="940" alt="image" src="https://github.com/user-attachments/assets/bca361d6-fbdc-4862-b913-748e85b6a474" /># campusSphere
+# campusSphere
 Campusphere is a centralized web-based platform developed for URSP Binangonan Campus to streamline the management of student organizations, accreditation, events, proposals, memberships, and organizational activities.
+Campusphere aims to improve communication, accessibility, student engagement, leadership development, and the overall management of student organizations through a centralized digital platform.
 
 # Features
 - Student organization accreditation and document management
