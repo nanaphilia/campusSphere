@@ -89,11 +89,15 @@ Posted
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6fa091dd-1475-4fb4-9c9e-b411c90f8529" />
 
 
+About
+CampusSphere was developed as our Capstone Project during the School Year 2024–2025. It is a centralized web-based platform designed to streamline the management of student organizations at URS Binangonan Campus.
+
+The system provides different user roles and features for managing organization accreditation, memberships, events, proposals, documents, and organizational activities. It was developed using the Rapid Application Development (RAD) model and validated by 266 respondents.
+
+CampusSphere achieved a 95.27% Quality Assurance Testing score and a 4.42 General Mean in User Acceptance Testing, receiving a verbal interpretation of "Highly Acceptable."
 
 
-
-
-
+Developed by Bugs Buster.
 
 
 
