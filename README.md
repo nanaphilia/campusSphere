@@ -66,6 +66,7 @@ Submission tab
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e92c1a46-adb2-4289-9569-a3f2ed884136" />
 
 Submission of proposal
+
 <img width="530" height="768" alt="image" src="https://github.com/user-attachments/assets/882dbbaf-18b7-4c1f-b1f7-ccd888b594fb" />
 
 Submission of reports
