@@ -90,6 +90,7 @@ Posted
 
 
 About
+
 CampusSphere was developed as our Capstone Project during the School Year 2024–2025. It is a centralized web-based platform designed to streamline the management of student organizations at URS Binangonan Campus.
 
 The system provides different user roles and features for managing organization accreditation, memberships, events, proposals, documents, and organizational activities. It was developed using the Rapid Application Development (RAD) model and validated by 266 respondents.
